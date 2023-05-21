@@ -2,6 +2,10 @@
 
 This project was developed as a part of Adda live workshop for demonstration purpose.
 
+Access live here - adda-demo-imdb-app.web.app
+
+Note: Do not forget to add your own API in the movie-api.js page from (https://rapidapi.com/rapihub-rapihub-default/api/imdb-top-100-movies/).
+
 ## Available Scripts
 
 In the project directory, you can run:

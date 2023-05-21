@@ -5,7 +5,7 @@ export const fetchMoviesAndTVShows = async () => {
     method: "GET",
     url: "https://imdb-top-100-movies.p.rapidapi.com",
     headers: {
-      "X-RapidAPI-Key": "0dc05d46a9msha08884cc5b2585fp180ec4jsne7d6d9f1105b",
+      "X-RapidAPI-Key": "<Add your own API key>", // Add your own API here from RapidApi.com
       "X-RapidAPI-Host": "imdb-top-100-movies.p.rapidapi.com",
     },
   };
